@@ -1,7 +1,7 @@
 # incl
 ------
 
-A tool to include the previous user interaction routines in one single line.
+A tool to include the previous user interaction routines "in" and "out" in one single line.
 
 So these can be included into a program and code extent can be saved for actual content of the program.
 
